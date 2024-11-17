@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tereza"
+  given-names: "Blahová"
+title: "name-gender-dictionary"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-11-17
+url: "https://github.com/terezablahova/name-gender-dictionary"
